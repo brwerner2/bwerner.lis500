@@ -57,5 +57,7 @@ li {
 .right-image {
     float: right;
     margin: 10px;
+    width: 100;
 }
+
 
